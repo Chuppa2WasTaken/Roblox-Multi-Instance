@@ -45,4 +45,6 @@ Heres how to setup **WITH BLOXSTRAP**
 7. **IMPORTANT** Remove the "" at the start and end of the path to the Runner.exe
 8. Click save at the bottom right and enjoy!
 
+[Steps 5-8 Video](https://vimeo.com/958910184?share=copy)
+
 
