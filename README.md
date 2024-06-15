@@ -7,7 +7,7 @@ And hello anybody who came from [badjuicefish's video!](https://www.youtube.com/
 
 ***
 
-Below is an example of what you can do with this.
+Below is an example of what you can do with this. (attached image has version from v1.0.0)
 
 ![image](https://github.com/Leoisawesome/RobloxMultiInstance/assets/110486918/8f9d33b9-21e5-4c6b-8645-9b3753f3eb90)
 
