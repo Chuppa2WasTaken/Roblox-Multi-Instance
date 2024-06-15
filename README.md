@@ -9,11 +9,6 @@ I'm not the best at stuff like this but with the help of some tutorials, it some
 
 ***
 
-# .NET REQUIRED
-[Download from Microsoft Here](https://dotnet.microsoft.com/en-us/download)
-
-***
-
 Below is an example of what you can do with this.
 
 ![image](https://github.com/Leoisawesome/RobloxMultiInstance/assets/110486918/8f9d33b9-21e5-4c6b-8645-9b3753f3eb90)
@@ -28,7 +23,7 @@ If you have any questions or concerns about Roblox MultiInstance, feel free to c
 ***
 # Setup
 
-**.NET REQUIRED**
+**.NET MAYBE REQUIRED**
 [Download from Microsoft Here](https://dotnet.microsoft.com/en-us/download)
 
 **WARNING**
