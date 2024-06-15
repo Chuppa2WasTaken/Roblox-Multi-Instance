@@ -30,13 +30,13 @@ If you have any questions or concerns about Roblox MultiInstance, feel free to c
 Don't try putting the exe outside of the folder! (it won't work)
 
 Heres how to setup **WITH REGULAR ROBLOX**
-1. Download the zip file from Releases
+1. Download the zip file from [Releases.](https://github.com/Chuppa2WasTaken/Roblox-Multi-Instance/releases)
 2. Place it inside a safe place, like documents or desktop.
 3. Launch the Runner.exe everytime you want to use multi instance.
 
 
 Heres how to setup **WITH BLOXSTRAP**
-1. Download the zip file from Releases
+1. Download the zip file from [Releases.](https://github.com/Chuppa2WasTaken/Roblox-Multi-Instance/releases)
 2. Place it inside a safe place, like documents or desktop.
 3. Open Bloxstrap and head to Integrations and scroll down to Custom Integrations.
 4. Make a new Custom Integration and name it something you can recognise like "Multi Instance Workaround" for example.
