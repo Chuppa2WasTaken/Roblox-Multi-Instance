@@ -5,6 +5,8 @@ Hello all, I made this in like 10 minutes using [someones old script from 2023.]
 
 I'm not the best at stuff like this but with the help of some tutorials, it somehow worked.
 
+**THIS IS ONLY AS A SMALL PROGRAM, IT IS NOT TO BE USED PERMANENTLY DUE TO THE FACT IT IS NOT MAINTAINED OR FIXED**
+
 ***
 
 # .NET REQUIRED
