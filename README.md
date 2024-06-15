@@ -1,11 +1,11 @@
 # RobloxMultiInstance
-A multi instance launcher designed for Roblox.
+A multi instance thingy designed for Roblox.
 
 Hello all, I made this in like 10 minutes using [someones old script from 2023.](https://github.com/MiningTcup/Roblox-Multi-Instance/) 
 
 I'm not the best at stuff like this but with the help of some tutorials, it somehow worked.
 
-**THIS MIGHT BREAK EVENTUALLY**
+**I'm muted in bloxstrap right now, so uh**
 
 ***
 
