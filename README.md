@@ -21,6 +21,9 @@ If you have any questions or concerns about Roblox MultiInstance, feel free to c
 ***
 # Setup
 
+**.NET REQUIRED**
+[Download from Microsoft Here](https://dotnet.microsoft.com/en-us/download)
+
 **WARNING**
 Don't try putting the exe outside of the folder! (it won't work)
 
