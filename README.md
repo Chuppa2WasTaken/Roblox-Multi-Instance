@@ -1,11 +1,9 @@
 # RobloxMultiInstance
 A multi instance thingy designed for Roblox.
 
-Hello all, I made this in like 10 minutes using [someones old script from 2023.](https://github.com/MiningTcup/Roblox-Multi-Instance/) 
+Hello all, I made this in like 10 minutes using someones old script as inspiration.
 
-I'm not the best at stuff like this but with the help of some tutorials, it somehow worked.
-
-**I'm muted in bloxstrap right now, so uh**
+And hello anybody who came from [badjuicefish's video!](https://www.youtube.com/watch?v=N1s9qRWiIC4)
 
 ***
 
@@ -22,12 +20,6 @@ I want to address any concerns about the legitimacy of this software. Roblox Mul
 If you have any questions or concerns about Roblox MultiInstance, feel free to contact me through appropriate channels. I appreciate your understanding and cooperation.
 ***
 # Setup
-
-**.NET MAYBE REQUIRED**
-[Download from Microsoft Here](https://dotnet.microsoft.com/en-us/download)
-
-**WARNING**
-Don't try putting the exe outside of the folder! (it won't work)
 
 Heres how to setup **WITH REGULAR ROBLOX**
 1. Download the zip file from [Releases.](https://github.com/Chuppa2WasTaken/Roblox-Multi-Instance/releases)
