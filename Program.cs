@@ -19,7 +19,7 @@ namespace MultipleRoblox
             Console.WriteLine("\n");
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Activating ROBLOX_singletonMutex...");
-            new Mutex(true, "ROBLOX_singletonMutex");
+            new Mutex(true, "ROBLOX_singletonMutex"); // THIS DOES THE STUFF, THIS MAKES ANTIVIRUS VERY ANGRY 😭
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("If you are seeing this then this script worked!");
